@@ -34,5 +34,9 @@ public class DeleteElements {
 //            }
 //        }
 //        names.removeAll(namesToRemove);
+
+        names.getFirst();
+        // names.get(0)
+        names.getLast();
     }
 }
